@@ -1,0 +1,1 @@
+the file was bigger then 25MB so i cannot upload it on github, alternatively, you can find it on below link : \href{{https://www.kaggle.com/models/artharking/rawnet2-aml-arth/}{https://www.kaggle.com/models/artharking/rawnet2-aml-arth/}}
