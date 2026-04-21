@@ -1,5 +1,7 @@
 # AML_Project
 AML Project of Arth J. Shah (202521004)
+
+
 ![Python(Preferred)](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Notebook%20Ready-20BEFF)
